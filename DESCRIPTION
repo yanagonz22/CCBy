@@ -1,0 +1,17 @@
+Package: CCOMBOY
+Type: Package
+Title: Evaluacion y Determinación de la Compocisión Corporal en Bovinos
+Version: 0.1.0
+Author: Natali Gonzalez Vagy
+Maintainer: The package maintainer <yasuvag22@gmail.com>
+Description: Realiza el calculo de la composicion corporal en bovinos mediante
+    su peso inicial y final, hasta sacar los kgs de Tejido adiposo, Masa 
+    Muscular y la suma de los Huesos, Falacias y tendones,ademas de graficar 
+    los Kgs predichos y los observados de TA Y Masa Muscular.
+References: Aplle J K, Stephenson J. 1999. Influence of body condition score on
+   by product and value from cull beef cows. Departamento of Animal Sience, 
+   University of Arkansas, Fayettville 72701. J Animal Sci. 77:2670-2679.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
